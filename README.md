@@ -1,6 +1,6 @@
 # hackathon
 # HCR
-## Markup : * Safety is not easily accessible in India, so we created this app, which gives you safety on demand.
+##  Safety is not easily accessible in India, so we created this app, which gives you safety on demand.
 
 
 ## * It sends an editable text message to trusted contacts via a vigorous shake.
