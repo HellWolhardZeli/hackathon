@@ -9,7 +9,7 @@
 
 ## * Challenges we ran into: Fooling around with the 'static ' variable and intent making.
 
-## * Accomplishments that we're proud of: Helping the needy ones
+## * Accomplishments that we're proud of: Helping the needy ones.
 
 ## * What we learned:Learned how to use 'static' variable and many more...
 
